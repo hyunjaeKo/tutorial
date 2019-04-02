@@ -1,1 +1,2 @@
-처음으로 git file commit 
+﻿처음으로 git file commit 
+tutorial2에서 수정 후 pust합니다.
